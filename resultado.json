@@ -1,0 +1,446 @@
+{
+    "Header": {
+        "Product Name": "1502329 - KM PEDIGREE Puppy Nutridefense RL22",
+        "Analysis Date": "8/5/2024",
+        "Species": "Dog",
+        "Life Stage": "Puppy"
+    },
+    "DietAnalysis": [
+        {
+            "Nutrient": "Species",
+            "Unit": ":",
+            "Diet Analysis per 1000kcal": "Dog",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "per",
+            "Unit": "1000",
+            "Diet Analysis per 1000kcal": "kcal",
+            "min": "P",
+            "max": ""
+        },
+        {
+            "Nutrient": "Diet",
+            "Unit": "Analysis",
+            "Diet Analysis per 1000kcal": "Mars",
+            "min": "Minim",
+            "max": ""
+        },
+        {
+            "Nutrient": "per",
+            "Unit": "1000",
+            "Diet Analysis per 1000kcal": "kcal",
+            "min": "for",
+            "max": "Puppy"
+        },
+        {
+            "Nutrient": "Nutrient",
+            "Unit": "Unit",
+            "Diet Analysis per 1000kcal": "Min",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Starch",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "0",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Moisture",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "23.77",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Protein",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "71.03",
+            "min": "62.5",
+            "max": ""
+        },
+        {
+            "Nutrient": "Fat",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "31.33",
+            "min": "21.3",
+            "max": ""
+        },
+        {
+            "Nutrient": "Ash",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "19.71",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Metabolisable",
+            "Unit": "Kcal",
+            "Diet Analysis per 1000kcal": "1000",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Crude",
+            "Unit": "Fibre",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "4.05",
+            "max": ""
+        },
+        {
+            "Nutrient": "Essential",
+            "Unit": "Fatty",
+            "Diet Analysis per 1000kcal": "Acid",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Linoleic",
+            "Unit": "acid",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "0",
+            "max": "3.3"
+        },
+        {
+            "Nutrient": "g",
+            "Unit": "0",
+            "Diet Analysis per 1000kcal": "0.2",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "DHA",
+            "Unit": "&",
+            "Diet Analysis per 1000kcal": "EPA",
+            "min": "g",
+            "max": "0"
+        },
+        {
+            "Nutrient": "Arachidonic",
+            "Unit": "acid",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "0",
+            "max": "0.08"
+        },
+        {
+            "Nutrient": "Calcium",
+            "Unit": "(Ca)",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "3.75",
+            "max": "3"
+        },
+        {
+            "Nutrient": "Phosphorus",
+            "Unit": "(P)",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "2.7",
+            "max": "2.5"
+        },
+        {
+            "Nutrient": "Ca:P",
+            "Unit": "1.39",
+            "Diet Analysis per 1000kcal": "1",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Sodium",
+            "Unit": "(Na)",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "0",
+            "max": "0.55"
+        },
+        {
+            "Nutrient": "Potassium",
+            "Unit": "(K)",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "0",
+            "max": "1.1"
+        },
+        {
+            "Nutrient": "Magnesium",
+            "Unit": "(Mg)",
+            "Diet Analysis per 1000kcal": "mg",
+            "min": "0",
+            "max": "100"
+        },
+        {
+            "Nutrient": "Iron",
+            "Unit": "(Fe)",
+            "Diet Analysis per 1000kcal": "mg",
+            "min": "0",
+            "max": "22"
+        },
+        {
+            "Nutrient": "Copper",
+            "Unit": "(Cu)",
+            "Diet Analysis per 1000kcal": "mg",
+            "min": "0",
+            "max": "2.7"
+        },
+        {
+            "Nutrient": "Manganese",
+            "Unit": "(",
+            "Diet Analysis per 1000kcal": "Mn)",
+            "min": "mg",
+            "max": "0"
+        },
+        {
+            "Nutrient": "Zinc",
+            "Unit": "(Zn)",
+            "Diet Analysis per 1000kcal": "mg",
+            "min": "0",
+            "max": "25"
+        },
+        {
+            "Nutrient": "Iodine",
+            "Unit": "(I)",
+            "Diet Analysis per 1000kcal": "mg",
+            "min": "0",
+            "max": "0.22"
+        },
+        {
+            "Nutrient": "Selenium",
+            "Unit": "(Se)",
+            "Diet Analysis per 1000kcal": "ug",
+            "min": "0",
+            "max": "87.5"
+        },
+        {
+            "Nutrient": "Chloride",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "0",
+            "min": "0.72",
+            "max": ""
+        },
+        {
+            "Nutrient": "Vitamin",
+            "Unit": "A",
+            "Diet Analysis per 1000kcal": "(retinol)",
+            "min": "IU",
+            "max": "0"
+        },
+        {
+            "Nutrient": "Vitamin",
+            "Unit": "E",
+            "Diet Analysis per 1000kcal": "(",
+            "min": "alpha",
+            "max": ""
+        },
+        {
+            "Nutrient": "IU",
+            "Unit": "0",
+            "Diet Analysis per 1000kcal": "7.5",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Thiamin",
+            "Unit": "(Vit",
+            "Diet Analysis per 1000kcal": "B1)",
+            "min": "mg",
+            "max": "0"
+        }
+    ],
+    "LabResults": [
+        {
+            "Nutrient": "ife",
+            "Unit": "Stage",
+            "Diet Analysis per 1000kcal": ":",
+            "min": "Puppy",
+            "max": ""
+        },
+        {
+            "Nutrient": "LAB",
+            "Unit": "Results",
+            "Diet Analysis per 1000kcal": "here",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "ax",
+            "Unit": "Results",
+            "Diet Analysis per 1000kcal": "reported",
+            "min": "by",
+            "max": "analytical"
+        },
+        {
+            "Nutrient": "Moisture",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "8.8",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Protein",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "26.3",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "82.5",
+            "Unit": "Fat",
+            "Diet Analysis per 1000kcal": "g",
+            "min": "11.6",
+            "max": ""
+        },
+        {
+            "Nutrient": "Ash",
+            "Unit": "g",
+            "Diet Analysis per 1000kcal": "7.3",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Metabolisable",
+            "Unit": "Kcal",
+            "Diet Analysis per 1000kcal": "370.29",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Crude",
+            "Unit": "Fibre",
+            "Diet Analysis per 1000kcal": "%",
+            "min": "1.5",
+            "max": ""
+        },
+        {
+            "Nutrient": "Essential",
+            "Unit": "Fatty",
+            "Diet Analysis per 1000kcal": "Acid",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "16.3",
+            "Unit": "Linoleic",
+            "Diet Analysis per 1000kcal": "acid",
+            "min": "g",
+            "max": ""
+        },
+        {
+            "Nutrient": "DHA",
+            "Unit": "&",
+            "Diet Analysis per 1000kcal": "EPA",
+            "min": "g",
+            "max": ""
+        },
+        {
+            "Nutrient": "16.3",
+            "Unit": "Arachidonic",
+            "Diet Analysis per 1000kcal": "acid",
+            "min": "g",
+            "max": ""
+        },
+        {
+            "Nutrient": "4.5",
+            "Unit": "Calcium",
+            "Diet Analysis per 1000kcal": "(Ca)",
+            "min": "%",
+            "max": "1.39"
+        },
+        {
+            "Nutrient": "Phosphorus",
+            "Unit": "(P)",
+            "Diet Analysis per 1000kcal": "%",
+            "min": "1",
+            "max": ""
+        },
+        {
+            "Nutrient": "1.5",
+            "Unit": "Ca:P",
+            "Diet Analysis per 1000kcal": "1.39",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "3.75",
+            "Unit": "Sodium",
+            "Diet Analysis per 1000kcal": "(Na)",
+            "min": "%",
+            "max": ""
+        },
+        {
+            "Nutrient": "Potassium",
+            "Unit": "(K)",
+            "Diet Analysis per 1000kcal": "%",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Magnesium",
+            "Unit": "(Mg)",
+            "Diet Analysis per 1000kcal": "%",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "355",
+            "Unit": "Iron",
+            "Diet Analysis per 1000kcal": "(Fe)",
+            "min": "mg/kg",
+            "max": ""
+        },
+        {
+            "Nutrient": "37.5",
+            "Unit": "Copper",
+            "Diet Analysis per 1000kcal": "(Cu)",
+            "min": "mg/kg",
+            "max": ""
+        },
+        {
+            "Nutrient": "200",
+            "Unit": "Manganese",
+            "Diet Analysis per 1000kcal": "(",
+            "min": "Mn)",
+            "max": "mg/kg"
+        },
+        {
+            "Nutrient": "125",
+            "Unit": "Zinc",
+            "Diet Analysis per 1000kcal": "(Zn)",
+            "min": "mg/kg",
+            "max": ""
+        },
+        {
+            "Nutrient": "12.5",
+            "Unit": "Iodine",
+            "Diet Analysis per 1000kcal": "(I)",
+            "min": "mg/kg",
+            "max": ""
+        },
+        {
+            "Nutrient": "500",
+            "Unit": "Selenium",
+            "Diet Analysis per 1000kcal": "(Se)",
+            "min": "mg/kg",
+            "max": ""
+        },
+        {
+            "Nutrient": "5.625",
+            "Unit": "Chloride",
+            "Diet Analysis per 1000kcal": "%",
+            "min": "",
+            "max": ""
+        },
+        {
+            "Nutrient": "Vitamin",
+            "Unit": "A",
+            "Diet Analysis per 1000kcal": "(retinol)",
+            "min": "IU/kg",
+            "max": ""
+        },
+        {
+            "Nutrient": "Vitamin",
+            "Unit": "E",
+            "Diet Analysis per 1000kcal": "(",
+            "min": "alpha",
+            "max": ""
+        }
+    ]
+}
