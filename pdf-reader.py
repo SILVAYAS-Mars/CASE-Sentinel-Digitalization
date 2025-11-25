@@ -1,6 +1,6 @@
 import pdfplumber
 import json
-
+#test commmit
 pdf_path = "KM PEDIGREE Puppy Nutridefense RL22 1.pdf"
 
 import re
@@ -94,5 +94,6 @@ final_json = {
 # === Salvar ===
 with open("resultado.json", "w", encoding="utf-8") as f:
     json.dump(final_json, f, indent=4, ensure_ascii=False)
+
 
 print("✅ JSON criado com sucesso: resultado.json")
